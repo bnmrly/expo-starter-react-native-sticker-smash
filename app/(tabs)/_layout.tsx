@@ -3,7 +3,6 @@ import { Tabs } from "expo-router";
 import Ionicons from "@expo/vector-icons/Ionicons";
 
 export default function TabLayout() {
-  console.log("test commit since changing remote url");
   return (
     <Tabs
       screenOptions={{
